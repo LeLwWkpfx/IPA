@@ -1,1 +1,1 @@
-[必发](https://github.com/LeLwWkpfx/IPA/raw/master/BiFaCP.plist)
+itms-services://?action=download-manifest&url=https://github.com/LeLwWkpfx/IPA/raw/master/BiFaCP.plist
